@@ -1,0 +1,24 @@
+
+
+
+body{
+    height: 100%;
+    background-image: url("./regm.jpg");
+}
+
+h1{
+    color: beige;
+}
+p{
+    color: bisque;
+}
+label.required{color: silver;}
+legend.required{color: skyblue;}
+
+.bg{
+
+    height: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
