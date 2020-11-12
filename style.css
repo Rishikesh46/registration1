@@ -3,7 +3,9 @@
 
 body{
     height: 100%;
-    background-image: url("./regm.jpg");
+    background-image: url("./images/regm3.JPG");
+    background-image:no-repeat;
+ 
 }
 
 h1{
@@ -21,4 +23,6 @@ legend.required{color: skyblue;}
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
+    display: flex;
+    
 }
